@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=willwees&color=blueviolet)
+
 # Hi, I'm William 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-williamsuyanto-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamsuyanto/)](https://www.linkedin.com/in/williamsuyanto/)
@@ -7,7 +9,7 @@
 
 Welcome to my profile! I'm a full-time coder who is passionate about developing beautiful, responsive, and high-performance mobile applications using Flutter. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/williamsuyanto/)!
 
-## Languages, Technologies & Tools
+## ⚙️ Languages, Technologies & Tools 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,6 +20,7 @@ Welcome to my profile! I'm a full-time coder who is passionate about developing 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## 📊 Github Stats
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=willwees&count_private=true&show_icons=true&theme=github_dark)](https://github.com/willwees)
 -->
