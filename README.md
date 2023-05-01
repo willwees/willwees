@@ -1,8 +1,9 @@
 # Hi, I'm William 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-williamsuyanto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamsuyanto/)](https://www.linkedin.com/in/williamsuyanto/)
+[![Linkedin Badge](https://img.shields.io/badge/-williamsuyanto-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamsuyanto/)](https://www.linkedin.com/in/williamsuyanto/)
+[![Instagram Badge](https://img.shields.io/badge/-@willwees-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/willwees/)](https://instagram.com/willwees)
 [![Gmail Badge](https://img.shields.io/badge/-williamsuyanto-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:william.suyanto@gmail.com)](mailto:william.suyanto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@willwees-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/willwees/)](https://instagram.com/willwees)
+[![Telegram Badge](https://img.shields.io/badge/-willwees-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/willwees)](https://t.me/willwees)
 
 Welcome to my profile! I'm a full-time coder who is passionate about developing beautiful, responsive, and high-performance mobile applications using Flutter. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/williamsuyanto/)!
 
