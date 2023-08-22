@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/willwees/)](https://instagram.com/willwees)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:william.suyanto@gmail.com)](mailto:william.suyanto@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/willwees)](https://t.me/willwees)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/195851588915560448)](https://discord.com/users/195851588915560448)
 
 Welcome to my profile! I'm a full-time coder who is passionate about developing beautiful, responsive, and high-performance mobile applications using Flutter. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/williamsuyanto/)!
 
